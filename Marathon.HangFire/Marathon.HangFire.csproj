@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="HangFire.Core" Version="1.7.28" />
+    <PackageReference Include="HangFire.SQLServer" Version="1.7.28" />
+  </ItemGroup>
+
 </Project>

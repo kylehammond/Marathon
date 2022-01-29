@@ -13,4 +13,7 @@
     <SourceRoot Include="C:\Users\Kyle\.nuget\packages\" />
     <SourceRoot Include="C:\Program Files\dotnet\sdk\NuGetFallbackFolder\" />
   </ItemGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgHangfire_SqlServer Condition=" '$(PkgHangfire_SqlServer)' == '' ">C:\Users\Kyle\.nuget\packages\hangfire.sqlserver\1.7.28</PkgHangfire_SqlServer>
+  </PropertyGroup>
 </Project>
