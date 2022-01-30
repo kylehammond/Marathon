@@ -1,4 +1,4 @@
-﻿internal class AppSettings
+﻿public class AppSettings
 {
     public string Environment { get; set; }
 }
