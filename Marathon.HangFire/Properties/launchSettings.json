@@ -3,19 +3,19 @@
     "Marathon.HangFire.Development": {
       "commandName": "Project",
       "environmentVariables": {
-        "ENVIRONMENT": "Development"
+        "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
     "Marathon.HangFire.Staging": {
       "commandName": "Project",
       "environmentVariables": {
-        "ENVIRONMENT": "Staging"
+        "ASPNETCORE_ENVIRONMENT": "Staging"
       }
     },
     "Marathon.HangFire.Production": {
       "commandName": "Project",
       "environmentVariables": {
-        "ENVIRONMENT": "Production"
+        "ASPNETCORE_ENVIRONMENT": "Production"
       }
     }
   }

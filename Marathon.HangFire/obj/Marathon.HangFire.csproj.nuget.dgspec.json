@@ -67,6 +67,10 @@
               "target": "Package",
               "version": "[6.0.0, )"
             },
+            "serilog.extensions.hosting": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
             "serilog.settings.configuration": {
               "target": "Package",
               "version": "[3.3.0, )"

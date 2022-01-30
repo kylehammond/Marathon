@@ -30,6 +30,7 @@
 			<DependentUpon>appsettings.json</DependentUpon>
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
 		</None>
+		<PackageReference Include="serilog.extensions.hosting" Version="4.2.0" />
 		<PackageReference Include="serilog.settings.configuration" Version="3.3.0" />
 		<PackageReference Include="serilog.sinks.console" Version="4.0.1" />
 	</ItemGroup>

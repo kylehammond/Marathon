@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8cc4FwCTSzFcxBY1m5W2OBiltTA/kWjEKLNU3RGbXswwG9KQ9bDtsqDq5UhGYFgnFJBI+nUERvV0JOr1ePI8Qw==",
+  "dgSpecHash": "ZyT1e75Q+xmQmvk8NAhUNl8Em3Vo0753Ve0zpXbMQnxLJfnon6X9sH420R045P8vocTweNa5bvzNeS/kcbh9aA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Kyle\\Code\\Marathon\\Marathon.HangFire\\Marathon.HangFire.csproj",
   "expectedPackageFiles": [
@@ -40,6 +40,8 @@
     "C:\\Users\\Kyle\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\Kyle\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\Kyle\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512",
+    "C:\\Users\\Kyle\\.nuget\\packages\\serilog.extensions.hosting\\4.2.0\\serilog.extensions.hosting.4.2.0.nupkg.sha512",
+    "C:\\Users\\Kyle\\.nuget\\packages\\serilog.extensions.logging\\3.1.0\\serilog.extensions.logging.3.1.0.nupkg.sha512",
     "C:\\Users\\Kyle\\.nuget\\packages\\serilog.settings.configuration\\3.3.0\\serilog.settings.configuration.3.3.0.nupkg.sha512",
     "C:\\Users\\Kyle\\.nuget\\packages\\serilog.sinks.console\\4.0.1\\serilog.sinks.console.4.0.1.nupkg.sha512",
     "C:\\Users\\Kyle\\.nuget\\packages\\system.data.sqlclient\\4.4.0\\system.data.sqlclient.4.4.0.nupkg.sha512",
