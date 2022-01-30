@@ -13,6 +13,9 @@
 		<PackageReference Include="Microsoft.Extensions.Configuration.Binder" Version="6.0.0" />
 		<PackageReference Include="Microsoft.Extensions.Configuration.EnvironmentVariables" Version="6.0.0" />
 		<PackageReference Include="microsoft.extensions.configuration.json" Version="6.0.0" />
+		<None Update="appsettings.Staging.json">
+		  <DependentUpon>appsettings - Copy.json</DependentUpon>
+		</None>
 		<None Update="appsettings.Development.json">
 			<DependentUpon>appsettings.json</DependentUpon>
 		</None>
