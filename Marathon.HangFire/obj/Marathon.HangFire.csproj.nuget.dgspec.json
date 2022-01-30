@@ -50,6 +50,18 @@
             "HangFire.SQLServer": {
               "target": "Package",
               "version": "[1.7.28, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "microsoft.extensions.configuration.json": {
+              "target": "Package",
+              "version": "[6.0.0, )"
             }
           },
           "imports": [
