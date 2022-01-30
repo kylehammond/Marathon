@@ -2,7 +2,7 @@
 
 Console.WriteLine("Hello, World!");
 
-var environment = Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT");
+var environment = Environment.GetEnvironmentVariable("ENVIRONMENT");
 var builder = new ConfigurationBuilder()
     .AddJsonFile($"appsettings.json", true, true)
     .AddJsonFile($"appsettings.{environment}.json", true, true)
