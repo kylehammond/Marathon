@@ -1,0 +1,22 @@
+{
+  "profiles": {
+    "Marathon.HangFire.Development": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ENVIRONMENT": "Development"
+      }
+    },
+    "Marathon.HangFire.Staging": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ENVIRONMENT": "Staging"
+      }
+    },
+    "Marathon.HangFire.Production": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ENVIRONMENT": "Production"
+      }
+    }
+  }
+}
